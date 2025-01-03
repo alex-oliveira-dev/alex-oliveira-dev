@@ -1,5 +1,5 @@
 # Olá, me chamo Alex Herique.
-Sou mecânico linha pesada, com formação técnica em Montagem e Manutenção de Sistemas de Freios e Suspenção Pneumática e técnico em Plataformas Elevatórias de Acessibilidade de Onibus Urbanos na cidade de São Paulo. Em transição para a área Tech, atualmente cursando o terceiro semestre de Analise e Desenvolvmento de Sistemas pela Anhanguera Educacional na modalidade EAD. 
+Sou mecânico linha pesada, com formação técnica em Montagem e Manutenção de Sistemas de Freios e Suspenção Pneumática e técnico em Plataformas Elevatórias de Acessibilidade de Onibus Urbanos na cidade de São Paulo. Em transição para a área Tech, atualmente cursando o quarto semestre de Analise e Desenvolvmento de Sistemas pela Anhanguera Educacional na modalidade EAD. 
 
 ![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-oliveira-dev&show_icons=true&theme=dracula)
 
